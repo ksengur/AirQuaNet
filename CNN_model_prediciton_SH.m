@@ -156,8 +156,3 @@ xlabel('Sample Index');
 ylabel('Output');
 legend('Actual', 'Predicted');
 
-% plot(features(:,1))
-% xlabel('Number of Samples')
-% ylabel ('AQI')
-% ylim([-100 600])
-% grid on
